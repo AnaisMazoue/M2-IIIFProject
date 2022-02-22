@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 119,
+    "height" : 89
+  }, {
+    "width" : 238,
+    "height" : 178
+  }, {
+    "width" : 475,
+    "height" : 356
+  }, {
+    "width" : 949,
+    "height" : 712
+  }, {
+    "width" : 1897,
+    "height" : 1423
+  }, {
+    "width" : 3794,
+    "height" : 2846
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3794,
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Fall",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2846
+}
