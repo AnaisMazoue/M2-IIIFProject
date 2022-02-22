@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3024,
+    "id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter/canvas/",
+    "label" : {
+      "none" : [ "Disney_Winter" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 57
+            }, {
+              "width" : 189,
+              "height" : 114
+            }, {
+              "width" : 378,
+              "height" : 228
+            }, {
+              "width" : 756,
+              "height" : 456
+            }, {
+              "width" : 1512,
+              "height" : 912
+            }, {
+              "width" : 3024,
+              "height" : 1824
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3024,
+            "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1824
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3024,
+          "id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1824
+        },
+        "target" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Winter/canvas/"
+      } ]
+    } ],
+    "height" : 1824
+  }, {
     "width" : 3794,
     "id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Fall/canvas/",
     "label" : {
