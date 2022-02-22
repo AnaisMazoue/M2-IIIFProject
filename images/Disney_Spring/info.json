@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 62,
+    "height" : 38
+  }, {
+    "width" : 124,
+    "height" : 75
+  }, {
+    "width" : 247,
+    "height" : 149
+  }, {
+    "width" : 494,
+    "height" : 297
+  }, {
+    "width" : 988,
+    "height" : 593
+  }, {
+    "width" : 1975,
+    "height" : 1185
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1975,
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/images/Disney_Spring",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1185
+}
