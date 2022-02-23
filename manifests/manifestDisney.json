@@ -3,6 +3,11 @@
   "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json",
   "@type" : "sc:Manifest",
   "label" : "A Year at Disneyland Paris' main entrance",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92513635/e1623e689a06fb862e270184fe1c5dc6/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Context Title",
     "value" : "Master's Degree 'Technologies numériques appliquées à l'histoire' : IIIF Assignement"
@@ -46,6 +51,11 @@
         },
         "on" : "http://0d72309f-36e0-4c1c-9bcd-7f6e1bf11bf4"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://anaismazoue.github.io/M2-IIIFProject/annotations/annotationsDisneySummer.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2b5adcb9-f796-483a-9078-260f3990f017",
@@ -71,6 +81,11 @@
           "width" : 3794
         },
         "on" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://anaismazoue.github.io/M2-IIIFProject/annotations/annotationsDisneyFall.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -98,6 +113,11 @@
         },
         "on" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://anaismazoue.github.io/M2-IIIFProject/annotations/annotationsDisneyWinter.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b843b6cb-b400-493f-addc-2ac3fa5a143a",
@@ -123,6 +143,11 @@
           "width" : 1975
         },
         "on" : "http://b843b6cb-b400-493f-addc-2ac3fa5a143a"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://anaismazoue.github.io/M2-IIIFProject/annotations/annotationsDisneySpring.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
