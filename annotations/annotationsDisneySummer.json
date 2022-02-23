@@ -1,0 +1,109 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main Street Station's medallion for Disneyland Paris' reopening in July 2020.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main Street Station's medallion for Disneyland Paris' reopening in July 2020.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:10:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645639843646",
+    "dcterms:modified" : "2022-02-23T18:51:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1554,1068,604,610"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1642.14726,1157.28222c55.75692,-51.27004 134.41109,-89.4491 213.44642,-89.40349v0v0c79.03533,0.04561 147.88836,35.76151 213.44642,89.40349c65.55806,53.64198 91.03965,135.382 88.4124,215.83912c-2.62725,80.45712 -33.36334,159.63134 -88.4124,215.83912c-55.04906,56.20778 -134.41109,89.4491 -213.44642,89.40349c-79.03533,-0.04561 -157.74395,-33.37817 -213.44642,-89.40349c-55.70247,-56.02532 -88.39879,-134.7434 -88.4124,-215.83912c-0.01361,-81.09572 32.65548,-164.56908 88.4124,-215.83912z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_dcef38f5-25b7-40fb-aae9-c00671f22450\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"63.54155\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0d72309f-36e0-4c1c-9bcd-7f6e1bf11bf4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main Street Station in Disneyland Paris.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main Street Station in Disneyland Paris.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:08:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645639728139",
+    "dcterms:modified" : "2022-02-23T18:51:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-2,371,3814,1391"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-2,370.8h1907v0h1907v695.4v695.4h-1907h-1907v-695.4z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6b4cf3be-9811-4346-9a28-9609f3917e46\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"34.65903\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0d72309f-36e0-4c1c-9bcd-7f6e1bf11bf4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Town Square's gazebo",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Town Square's gazebo</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:24:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640692942",
+    "dcterms:modified" : "2022-02-23T18:54:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1814,2038,58,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1842.70487,2124.30946c0,-19.25501 9.62751,-38.51003 28.88252,-57.76504c0,-15.95138 -12.93115,-28.88252 -28.88252,-28.88252c-15.95138,0 -28.88252,12.93115 -28.88252,28.88252c19.25501,19.25501 28.88252,38.51003 28.88252,57.76504z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_0a56eb80-5a39-4baf-9b25-bafd51ab175c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#7500ff\" stroke-width=\"46.21203\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0d72309f-36e0-4c1c-9bcd-7f6e1bf11bf4"
+    } ]
+  } ],
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/annotationsDisneySummer.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
