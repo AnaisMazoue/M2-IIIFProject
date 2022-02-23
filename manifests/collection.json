@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/disneyCorr.json",
-    "label" : "A Year at Disneyland Paris' main entrance"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json",
     "label" : "A Year at Disneyland Paris' main entrance"
   } ]
