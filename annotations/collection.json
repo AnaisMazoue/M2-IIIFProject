@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/annotationsDisneySummer.json" ],
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/collection.json",
+  "label" : "All annotations loaded in AnaisMazoue/M2-IIIFProject project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
