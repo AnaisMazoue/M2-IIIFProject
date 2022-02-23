@@ -1,0 +1,281 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Minnie Mouse",
+      "@type" : "oa:Tag",
+      "chars" : "Minnie Mouse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Christmas",
+      "@type" : "oa:Tag",
+      "chars" : "Christmas"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Minnie Mouse in her winter clothes holding a Christmas present.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Minnie Mouse in her winter clothes holding a Christmas present.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:43:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641816876",
+    "dcterms:modified" : "2022-02-23T18:43:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2013,629,215,231"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2044.28862,662.35811c19.88255,-19.35869 47.9301,-33.77445 76.11357,-33.75723v0v0c28.18347,0.01722 52.736,13.50294 76.11357,33.75723c23.37757,20.25429 32.46413,51.11793 31.52727,81.49716c-0.93686,30.37923 -11.89715,60.27407 -31.52727,81.49716c-19.63013,21.22309 -47.9301,33.77445 -76.11357,33.75723c-28.18347,-0.01722 -56.25044,-12.60303 -76.11357,-33.75723c-19.86313,-21.1542 -31.52242,-50.8768 -31.52727,-81.49716c-0.00485,-30.62036 11.64473,-62.13847 31.52727,-81.49716z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_7331eaad-61c4-446d-84cf-2750101d7185\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main Street Station in Disneyland Paris during Christmas season.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main Street Station in Disneyland Paris during Christmas season.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Christmas",
+      "@type" : "oa:Tag",
+      "chars" : "Christmas"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:36:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641372292",
+    "dcterms:modified" : "2022-02-23T18:51:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=436,148,2307,933"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M435.5702,147.50143h1153.41261v0h1153.41261v466.73066v466.73066h-1153.41261h-1153.41261v-466.73066z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_33d6b5fa-b2f7-42d4-b6a1-a0dd96ec08dc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.99427\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mickey Mouse",
+      "@type" : "oa:Tag",
+      "chars" : "Mickey Mouse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pluto",
+      "@type" : "oa:Tag",
+      "chars" : "Pluto"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Christmas",
+      "@type" : "oa:Tag",
+      "chars" : "Christmas"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mickey Mouse hugging Pluto.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mickey Mouse hugging Pluto.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:44:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641856548",
+    "dcterms:modified" : "2022-02-23T18:44:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=943,633,195,210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M971.21792,663.71722c18.00746,-17.65361 43.40991,-30.79966 68.93545,-30.78395v0v0c25.52554,0.01571 47.76257,12.31362 68.93545,30.78395c21.17288,18.47033 29.40251,46.61555 28.554,74.31904c-0.84851,27.70349 -10.77515,54.96524 -28.554,74.31904c-17.77885,19.3538 -43.40991,30.79966 -68.93545,30.78395c-25.52554,-0.01571 -50.94557,-11.49298 -68.93545,-30.78395c-17.98988,-19.29098 -28.5496,-46.39567 -28.554,-74.31904c-0.0044,-27.92337 10.54654,-56.66543 28.554,-74.31904z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3b3097a0-b695-410c-8e45-db53a6e69815\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Town Square's gazebo",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Town Square's gazebo</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:35:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641328629",
+    "dcterms:modified" : "2022-02-23T18:35:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1547,1220,43,65"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1568.32092,1284.58453c0,-14.44126 7.22063,-28.88252 21.66189,-43.32378c0,-11.96353 -9.69836,-21.66189 -21.66189,-21.66189c-11.96353,0 -21.66189,9.69836 -21.66189,21.66189c14.44126,14.44126 21.66189,28.88252 21.66189,43.32378z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_de8de65a-99af-4d92-8626-177f46948d9e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#8418de\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Happy Holidays\" medallion hung on Main Street Station during Christmas season in 2021.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Happy Holidays\" medallion hung on Main Street Station during Christmas season in 2021.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:37:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641446107",
+    "dcterms:modified" : "2022-02-23T18:48:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1259,441,642,611"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1352.60115,530.81636c59.23574,-51.3289 142.79735,-89.55179 226.7639,-89.50612v0v0c83.96655,0.04567 157.1155,35.80256 226.7639,89.50612c69.6484,53.70356 96.71985,135.53741 93.92868,216.0869c-2.79117,80.54949 -35.44496,159.8146 -93.92868,216.0869c-58.48372,56.2723 -142.79735,89.55179 -226.7639,89.50612c-83.96655,-0.04567 -167.58601,-33.41649 -226.7639,-89.50612c-59.17789,-56.08963 -93.91422,-134.89808 -93.92868,-216.0869c-0.01446,-81.18882 34.69294,-164.758 93.92868,-216.0869z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_86a9a804-96c8-478f-883e-941214984076\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"47.65616\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goofy",
+      "@type" : "oa:Tag",
+      "chars" : "Goofy"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Christmas",
+      "@type" : "oa:Tag",
+      "chars" : "Christmas"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goofy holding a Christmas present and wearing his winter clothes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Goofy holding a Christmas present and wearing his winter clothes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:42:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641779105",
+    "dcterms:modified" : "2022-02-23T18:42:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2379,613,215,241"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2410.31081,648.61766c19.88255,-20.21123 47.9301,-35.26185 76.11357,-35.24387v0v0c28.18347,0.01798 52.736,14.09759 76.11357,35.24387c23.37757,21.14627 32.46413,53.36911 31.52727,85.08622c-0.93686,31.71711 -11.89715,62.92848 -31.52727,85.08622c-19.63013,22.15774 -47.9301,35.26185 -76.11357,35.24387c-28.18347,-0.01798 -56.25044,-13.15805 -76.11357,-35.24387c-19.86313,-22.08581 -31.52242,-53.11737 -31.52727,-85.08622c-0.00485,-31.96885 11.64473,-64.87499 31.52727,-85.08622z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f378bb76-e343-4753-84b2-4f19a3ed080e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff9000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Donald Duck reading a book and wearing his winter clothes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Donald Duck reading a book and wearing his winter clothes.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Donald Duck",
+      "@type" : "oa:Tag",
+      "chars" : "Donald Duck"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Christmas",
+      "@type" : "oa:Tag",
+      "chars" : "Christmas"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:41:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641693828",
+    "dcterms:modified" : "2022-02-23T18:49:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=570,629,200,225"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M599.37671,661.6148c18.47623,-18.93242 44.53996,-33.03075 70.72998,-33.01391v0v0c26.19002,0.01684 49.00593,13.20561 70.72998,33.01391c21.72405,19.8083 30.16792,49.99233 29.29732,79.70263c-0.8706,29.7103 -11.05565,58.94686 -29.29732,79.70263c-18.24167,20.75577 -44.53996,33.03075 -70.72998,33.01391c-26.19002,-0.01684 -52.27179,-12.32551 -70.72998,-33.01391c-18.45819,-20.6884 -29.29281,-49.75652 -29.29732,-79.70263c-0.00451,-29.94611 10.82109,-60.77021 29.29732,-79.70263z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ea23b5f3-6e1c-4d75-8eeb-9d95f1cbe328\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"34.65903\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://81362f99-4543-40c3-89a9-1d42bf341b96"
+    } ]
+  } ],
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/annotationsDisneyWinter.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
