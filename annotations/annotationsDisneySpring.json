@@ -1,0 +1,113 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Town Square's gazebo.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Town Square's gazebo.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:46:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645642002137",
+    "dcterms:modified" : "2022-02-23T18:46:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=945,813,28,42"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M959.20487,855.6447c0,-9.43171 4.71585,-18.86342 14.14756,-28.29513c0,-7.81348 -6.33408,-14.14756 -14.14756,-14.14756c-7.81348,0 -14.14756,6.33408 -14.14756,14.14756c9.43171,9.43171 14.14756,18.86342 14.14756,28.29513z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2c2eb146-4347-44a0-b3ac-e4d24394aadf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#7500ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b843b6cb-b400-493f-addc-2ac3fa5a143a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The new medallion hung on Main Street Sation in honor of Disneyland Paris' 30th anniversary.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The new medallion hung on Main Street Sation in honor of Disneyland Paris' 30th anniversary.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:48:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645642102781",
+    "dcterms:modified" : "2022-02-23T18:48:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=715,192,504,489"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M788.50812,263.93149c46.55011,-41.04014 112.21659,-71.60134 178.20128,-71.56483v0v0c65.98469,0.03651 123.46843,28.62602 178.20128,71.56483c54.73285,42.93881 76.00682,108.36926 73.81339,172.77279c-2.19343,64.40353 -27.85425,127.78014 -73.81339,172.77279c-45.95914,44.99265 -112.21659,71.60134 -178.20128,71.56483c-65.98469,-0.03651 -131.69663,-26.71823 -178.20128,-71.56483c-46.50465,-44.8466 -73.80202,-107.85808 -73.81339,-172.77279c-0.01136,-64.91471 27.26328,-131.73265 73.81339,-172.77279z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_a46dbecf-9983-4ac2-a6d1-7dcd81678e4b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"31.12464\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b843b6cb-b400-493f-addc-2ac3fa5a143a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main Street Station getting ready to celebrate Disneyland Paris' 30th anniversary.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main Street Station getting ready to celebrate Disneyland Paris' 30th anniversary.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:47:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645642036958",
+    "dcterms:modified" : "2022-02-23T18:52:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=26,13,1855,687"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M26.29513,13.27937h927.66547v0h927.66547v343.37106v343.37106h-927.66547h-927.66547v-343.37106z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_05980fab-7c90-4b56-97f9-703ab94b9dd3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.97708\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b843b6cb-b400-493f-addc-2ac3fa5a143a"
+    } ]
+  } ],
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/annotationsDisneySpring.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
