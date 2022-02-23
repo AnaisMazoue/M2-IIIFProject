@@ -1,0 +1,285 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mickey Mouse wearing his Halloween costume.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mickey Mouse wearing his Halloween costume.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mickey Mouse",
+      "@type" : "oa:Tag",
+      "chars" : "Mickey Mouse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:45:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645641943662",
+    "dcterms:modified" : "2022-02-23T18:45:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2616,1010,403,444"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2675.09779,1075.36408c37.17424,-37.28008 89.61452,-65.04129 142.30892,-65.00812v0v0c52.6944,0.03317 98.60007,26.00333 142.30892,65.00812c43.70885,39.00479 60.69793,98.44055 58.94629,156.94348c-1.75164,58.50293 -22.244,116.07302 -58.94629,156.94348c-36.70229,40.87046 -89.61452,65.04129 -142.30892,65.00812c-52.6944,-0.03317 -105.17099,-24.27033 -142.30892,-65.00812c-37.13793,-40.73779 -58.93721,-97.97621 -58.94629,-156.94348c-0.00908,-58.96727 21.77205,-119.6634 58.94629,-156.94348z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_818adcf1-c596-44cf-9f8c-0171aa864dee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"21.74212\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goofy collecting candies for Halloween.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Goofy collecting candies for Halloween.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goofy",
+      "@type" : "oa:Tag",
+      "chars" : "Goofy"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:18:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640330481",
+    "dcterms:modified" : "2022-02-23T18:50:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=228,993,361,471"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M280.77504,1061.62484c33.31173,-39.53831 80.30333,-68.98115 127.52264,-68.94597v0v0c47.21931,0.03518 88.35526,27.57848 127.52264,68.94597c39.16738,41.36749 54.39125,104.40356 52.82161,166.45029c-1.56964,62.04673 -19.93279,123.10411 -52.82161,166.45029c-32.88882,43.34618 -80.30333,68.98115 -127.52264,68.94597c-47.21931,-0.03518 -94.24344,-25.7405 -127.52264,-68.94597c-33.2792,-43.20547 -52.81348,-103.91109 -52.82161,-166.45029c-0.00813,-62.5392 19.50988,-126.91198 52.82161,-166.45029z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_02fb6d82-89bf-483f-b249-08e471a57290\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#e7750d\" stroke-width=\"51.3467\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Town Square's gazebo.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Town Square's gazebo.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:24:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640659595",
+    "dcterms:modified" : "2022-02-23T18:54:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1920,2006,27,41"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1933.7678,2046.50933c0,-9.05922 4.52961,-18.11843 13.58883,-27.17765c0,-7.5049 -6.08392,-13.58883 -13.58883,-13.58883c-7.5049,0 -13.58883,6.08392 -13.58883,13.58883c9.05922,9.05922 13.58883,18.11843 13.58883,27.17765z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_0c0aed38-c4bb-44f6-8b4c-f5a2e5fa581d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#7500ff\" stroke-width=\"21.74212\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Donald Duck",
+      "@type" : "oa:Tag",
+      "chars" : "Donald Duck"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Donald Duck wearing a Devil costume for Halloween",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Donald Duck wearing a Devil costume for Halloween</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-23T18:20:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640408134",
+    "dcterms:modified" : "2022-02-23T18:20:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=845,1075,381,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M900.53989,1128.74046c35.21837,-30.86943 84.8996,-53.85684 134.82157,-53.82938v0v0c49.92198,0.02746 93.41239,21.53182 134.82157,53.82938c41.40918,32.29756 57.5044,81.5128 55.84492,129.95562c-1.65948,48.44282 -21.07366,96.11321 -55.84492,129.95562c-34.77126,33.84241 -84.8996,53.85684 -134.82157,53.82938c-49.92198,-0.02746 -99.63759,-20.09682 -134.82157,-53.82938c-35.18398,-33.73255 -55.83633,-81.1283 -55.84492,-129.95562c-0.0086,-48.82731 20.62655,-99.08619 55.84492,-129.95562z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_72f1b9bc-b6ba-478b-8a5e-813964fb13db\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Happy Halloween\" medallion hung on Main Street Station during the Halloween season in 2021.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Happy Halloween\" medallion hung on Main Street Station during the Halloween season in 2021.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:27:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640847173",
+    "dcterms:modified" : "2022-02-23T18:49:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1422,932,1040,649"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1422.10888,931.80229h520.09312v0h520.09312v324.41404v324.41404h-520.09312h-520.09312v-324.41404z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_293936de-0a52-470c-9848-11f7ddca15fe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"59.79083\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Minnie Mouse dressed as a witch for Halloween.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Minnie Mouse dressed as a witch for Halloween.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Minnie Mouse",
+      "@type" : "oa:Tag",
+      "chars" : "Minnie Mouse"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:16:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645640163887",
+    "dcterms:modified" : "2022-02-23T18:50:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3237,1008,366,417"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3290.86836,1068.65285c33.76724,-34.98419 81.4014,-61.03573 129.2664,-61.00461v0v0c47.865,0.03112 89.56344,24.40192 129.2664,61.00461c39.70296,36.60269 55.13499,92.37812 53.54389,147.27816c-1.5911,54.90004 -20.20534,108.9247 -53.54389,147.27816c-33.33855,38.35346 -81.4014,61.03573 -129.2664,61.00461c-47.865,-0.03112 -95.53214,-22.77565 -129.2664,-61.00461c-33.73426,-38.22896 -53.53565,-91.94237 -53.54389,-147.27816c-0.00824,-55.33579 19.77665,-112.29397 53.54389,-147.27816z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_dc9ccc14-8294-486f-85a1-c513e5039b0e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"51.3467\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Main Street Station in Disneyland Paris during Halloween season.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Main Street Station in Disneyland Paris during Halloween season.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Halloween",
+      "@type" : "oa:Tag",
+      "chars" : "Halloween"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disneyland Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Disneyland Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92513635",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-23T18:12:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645639976600",
+    "dcterms:modified" : "2022-02-23T18:51:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/manifests/manifestDisney.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5,246,3795,1382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5.06017,245.58739h1897.67908v0h1897.67908v690.97135v690.97135h-1897.67908h-1897.67908v-690.97135z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_87fb97de-c401-412a-b3c3-b91d5ccc2328\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"32.61318\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2b5adcb9-f796-483a-9078-260f3990f017"
+    } ]
+  } ],
+  "@id" : "https://AnaisMazoue.github.io/M2-IIIFProject/annotations/annotationsDisneyFall.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
